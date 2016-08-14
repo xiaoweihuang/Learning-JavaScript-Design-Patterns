@@ -1,8 +1,4 @@
 <html class="no-js">
- <head>
-  <meta charset="utf-8" />
-  <title>Learning JavaScript Design Patterns</title>
- </head>
  <body>
   <div class="container inner wrap">
    <header>
