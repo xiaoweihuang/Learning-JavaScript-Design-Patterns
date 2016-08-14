@@ -1,5 +1,4 @@
 <html class="no-js">
- <!--<![endif]-->
  <head>
   <meta charset="utf-8" />
   <title>Learning JavaScript Design Patterns</title>
@@ -7415,7 +7414,7 @@ console.log(myApp);
 
 </pre>
     <p>Web inspector output:</p>
-    <p><img border="0" src="images/ns1.png" width="520" /></p>
+    <p><img border="0" src="http://obsd68y67.bkt.clouddn.com/Learning-JavaScript-Design-Patternsns1.png" width="520" /></p>
     <p>Where one would previously have had to explicitly declare the various nests for their namespace as objects, this can now be easily achieved using a single, cleaner line of code.</p>
     <h3>Dependency declaration pattern</h3>
     <p>We're now going to explore a minor augmentation to the nested namespacing pattern which we'll refer to as the Dependency Declaration pattern. We all know that local references to objects can decrease overall lookup times, but let's apply this to namespacing to see how it might look in practice:</p>
